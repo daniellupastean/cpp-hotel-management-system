@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1622838047 source:c:\users\daniel\desktop\proiect poo\administrarehotel\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+	"AdministratorFisiere.h"
+	"Meniu.h"
+
+1621002132 source:c:\users\daniel\desktop\proiect poo\administrarehotel\persoana.cpp
+	"Persoana.h"
+
+1622828858 c:\users\daniel\desktop\proiect poo\administrarehotel\persoana.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1621066458 source:c:\users\daniel\desktop\proiect poo\administrarehotel\functii.cpp
+	"Functii.h"
+	<sstream>
+
+1621066438 c:\users\daniel\desktop\proiect poo\administrarehotel\functii.h
+	<vector>
+	<string>
+	<iostream>
+
+1622842099 source:c:\users\daniel\desktop\proiect poo\administrarehotel\client.cpp
+	"Client.h"
+
+1622805462 c:\users\daniel\desktop\proiect poo\administrarehotel\client.h
+	"Persoana.h"
+	"Functii.h"
+	<string>
+
+1622842070 source:c:\users\daniel\desktop\proiect poo\administrarehotel\angajat.cpp
+	"Angajat.h"
+
+1622829637 c:\users\daniel\desktop\proiect poo\administrarehotel\angajat.h
+	"Persoana.h"
+	"Functii.h"
+
+1622842175 source:c:\users\daniel\desktop\proiect poo\administrarehotel\camera.cpp
+	"Camera.h"
+
+1622831787 c:\users\daniel\desktop\proiect poo\administrarehotel\camera.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"Functii.h"
+
+1622842137 source:c:\users\daniel\desktop\proiect poo\administrarehotel\rezervare.cpp
+	"Rezervare.h"
+
+1621072844 c:\users\daniel\desktop\proiect poo\administrarehotel\rezervare.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1622825241 source:c:\users\daniel\desktop\proiect poo\administrarehotel\administratorfisiere.cpp
+	"AdministratorFisiere.h"
+
+1622818528 c:\users\daniel\desktop\proiect poo\administrarehotel\administratorfisiere.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+
+1622873214 source:c:\users\daniel\desktop\proiect poo\administrarehotel\meniu.cpp
+	"Meniu.h"
+
+1622871172 c:\users\daniel\desktop\proiect poo\administrarehotel\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+	"AdministratorFisiere.h"
+
+1622825241 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\administratorfisiere.cpp
+	"AdministratorFisiere.h"
+
+1622818528 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\administratorfisiere.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+
+1623414934 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\client.h
+	"Persoana.h"
+	"Functii.h"
+	<string>
+
+1623416442 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\persoana.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1621066438 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\functii.h
+	<vector>
+	<string>
+	<iostream>
+
+1623415097 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\angajat.h
+	"Persoana.h"
+	"Functii.h"
+
+1623416367 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\camera.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"Functii.h"
+
+1623416367 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\rezervare.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1623401791 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\angajat.cpp
+	"Angajat.h"
+
+1623400816 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\camera.cpp
+	"Camera.h"
+
+1623401567 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\client.cpp
+	"Client.h"
+
+1621066458 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\functii.cpp
+	"Functii.h"
+	<sstream>
+
+1623417267 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\main.cpp
+	<iostream>
+	"Meniu.h"
+
+1623401896 c:\users\daniel\desktop\poo\proiect poo\administrarehotel\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+	"AdministratorFisiere.h"
+
+1623416697 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\meniu.cpp
+	"Meniu.h"
+
+1623414718 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\persoana.cpp
+	"Persoana.h"
+
+1623401957 source:c:\users\daniel\desktop\poo\proiect poo\administrarehotel\rezervare.cpp
+	"Rezervare.h"
+
+1622825241 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\administratorfisiere.cpp
+	"AdministratorFisiere.h"
+
+1622818528 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\administratorfisiere.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+
+1623414934 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\client.h
+	"Persoana.h"
+	"Functii.h"
+	<string>
+
+1623416442 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\persoana.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1621066438 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\functii.h
+	<vector>
+	<string>
+	<iostream>
+
+1623415097 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\angajat.h
+	"Persoana.h"
+	"Functii.h"
+
+1623416367 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\camera.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"Functii.h"
+
+1623416367 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\rezervare.h
+	<iostream>
+	<string>
+	<vector>
+	"Functii.h"
+
+1623401791 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\angajat.cpp
+	"Angajat.h"
+
+1623400816 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\camera.cpp
+	"Camera.h"
+
+1623401567 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\client.cpp
+	"Client.h"
+
+1621066458 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\functii.cpp
+	"Functii.h"
+	<sstream>
+
+1623417267 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\main.cpp
+	<iostream>
+	"Meniu.h"
+
+1623401896 c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\meniu.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Camera.h"
+	"Rezervare.h"
+	"AdministratorFisiere.h"
+
+1623416697 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\meniu.cpp
+	"Meniu.h"
+
+1623414718 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\persoana.cpp
+	"Persoana.h"
+
+1623401957 source:c:\users\daniel\desktop\lupastean daniel - proiect poo\administrarehotel\rezervare.cpp
+	"Rezervare.h"
+
